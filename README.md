@@ -3,7 +3,7 @@
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Autonomous Self-Evolving & Self-Improving AI Agents*  
-**Last updated: March 2026**
+**Last updated: June 2026**
 
 This repository tracks notable **SaaS platforms** and **open-source projects** building **self-improving AI agents**. These agents can autonomously reflect on their performance, learn from mistakes, evolve their strategies, improve their own code/tools, and continuously enhance capabilities without constant human intervention.
 
@@ -21,29 +21,35 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS Products
 
-### Core Platforms (Self-Improving AI Agents)
+### Comparison Table (Self-Improving AI Agent Platforms)
+
+| Product Name | Pricing (Paid Plans) | Free Tier Limit | Primary "Self-Improving" Feature |
+| :--- | :--- | :--- | :--- |
+| **[Lindy.ai](https://hermes.ai/)** | Starter: $19.99/mo <br> Pro: $49.99/mo | **400 credits / month** | Learns brand voice and lead qualification via user feedback. |
+| **[Skyvern](https://skyvern.com/)** | Hobby: $29/mo <br> Pro: $149/mo | **1,000 credits / month** | Self-optimizes browser workflows to handle UI changes. |
+| **[Manus](https://manus.ai/)** | Pro: $19 - $199/mo | **5 runs / day** | Goal-driven reasoning that adapts based on live web feedback. |
+| **[Gumloop](https://www.gumloop.com/)** | Pro: $37/mo <br> Business: $199/mo | **1,000 credits / month** | AI-powered troubleshooting that suggests workflow repairs. |
+| **[AgentGPT](https://agentgpt.reworkd.ai/)** | Pro: $40/mo | **5 agents / day** | Recursive task spawning and iterative sub-goal refinement. |
+| **[Relevance AI](https://relevance.ai/)** | Pro: $29/mo <br> Team: $199/mo | **100 tokens / month** | Integrates long-term memory to optimize tool-use over time. |
+| **[HyperWrite](https://www.hyperwriteai.com/)** | Premium: $19.99/mo <br> Ultra: $44.99/mo | **250 AI messages / month** | Learns writing style and adapts via custom "Personas." |
+| **[MultiOn](https://www.multion.ai/)** | Pro: $20/mo <br> Enterprise: Custom | **Limited Trial / Beta** | Autonomous web navigation with cross-session learning. |
+| **[Zapier Central](https://zapier.com/central)** | Included in Pro ($20+) | **100 tasks / month** | Learns from interaction history across 6,000+ app integrations. |
+| **[n8n Cloud](https://n8n.io/)** | Starter: $20/mo <br> Pro: $60/mo | **Free (Self-hosted)** | Self-healing nodes that automatically fix common errors. |
+| **[CrewAI Cloud](https://www.crewai.com/)** | Pro: $99/mo <br> Enterprise: Custom | **Free (Self-hosted)** | Hierarchical memory and peer-to-peer agent feedback loops. |
+| **[Devin](https://www.cognition-labs.com/)** | Core: $20/mo <br> Enterprise: $500+/mo | **Paid Only / Waitlist** | Autonomous debugging and self-correcting code execution. |
+
+***
+
+### Notable Mentions
 
 - **[Hermes Agent](https://hermes.ai/)**  
   Advanced autonomous agent with strong self-reflection and iterative improvement capabilities for complex tasks.
-
 - **[OpenClaw](https://openclaw.ai/)**  
   Self-evolving AI agent platform focused on continuous learning and tool acquisition.
-
 - **[Claude Code / Anthropic Agents](https://claude.ai/)**  
   Powerful agentic system with self-correction, long-term memory, and iterative task refinement.
-
 - **[Vellum](https://www.vellum.ai/)**  
   Enterprise platform with self-improving agent workflows and performance optimization features.
-
-- **[Agent Zero](https://agentzero.ai/)**  
-  Fully autonomous agent capable of self-directed learning and goal evolution.
-
-- **[Manus](https://manus.ai/)**  
-  Next-generation self-improving AI agent with advanced reasoning and adaptation mechanisms.
-
-### Advanced & Specialized Platforms
-
-**Other notable mentions**: Adept, MultiOn, and various enterprise self-improving agent platforms.
 
 ## Open-Source GitHub Projects
 
