@@ -1,29 +1,33 @@
-# Awesome-Self-Improving-AI-Agents
-## Top Self-Improving AI Agents Ecosystem
+# 🤖 Awesome Self-Improving AI Agents
+<div align="center">
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-*Focused on Autonomous Self-Evolving & Self-Improving AI Agents*  
-**Last updated: June 2026**
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+![Last Updated](https://img.shields.io/badge/last%20updated-June%202026-brightgreen)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)
+![Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Self-Improving-AI-Agents?style=social)
 
-This repository tracks notable **SaaS platforms** and **open-source projects** building **self-improving AI agents**. These agents can autonomously reflect on their performance, learn from mistakes, evolve their strategies, improve their own code/tools, and continuously enhance capabilities without constant human intervention.
+**A curated list of autonomous, self-evolving, and self-improving AI agents, frameworks, and SaaS platforms.**
 
-**Examples** include Hermes Agent, OpenClaw, Claude Code (with agentic features), Vellum, Agent Zero, and Manus (the category leaders). Tools listed here emphasize **self-reflection**, memory evolution, skill acquisition, iterative improvement, and long-term autonomy.
+[Explore SaaS](#-saas-products) • [Open-Source Projects](#-open-source-github-projects) • [Contribution Guide](#-how-to-contribute)
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, local LLMs (Ollama), custom self-improvement loops, and full transparency — ideal for developers and researchers building truly autonomous agents.
+---
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+## 🌟 Overview
 
-## Table of Contents
-- [SaaS Products](#saas-products)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+This repository is the definitive resource for **Autonomous AI Agents** capable of **self-reflection**, **iterative improvement**, and **continuous learning**. In the rapidly evolving landscape of Large Language Models (LLMs), these systems represent the frontier of AGI—software that doesn't just execute tasks but learns from its own execution history to become more efficient, accurate, and autonomous over time.
 
-## SaaS Products
+### 🔍 Key SEO Keywords
+`autonomous-agents`, `self-improving-ai`, `llm-agents`, `agentic-workflows`, `agi`, `artificial-general-intelligence`, `auto-gpt`, `baby-agi`, `langchain`, `crewai`, `autogen`, `machine-learning`, `ai-engineering`.
 
-### Comparison Table (Self-Improving AI Agent Platforms)
+---
 
-| Product Name | Pricing (Paid Plans) | Free Tier Limit | Primary "Self-Improving" Feature |
+## 🚀 SaaS Products
+
+### 📊 Comparison Table (Self-Improving AI Agent Platforms)
+
+| Product Name | 💳 Pricing (Paid Plans) | 🎁 Free Tier Limit | 🧠 Primary "Self-Improving" Feature |
 | :--- | :--- | :--- | :--- |
 | **[Lindy.ai](https://hermes.ai/)** | Starter: $19.99/mo <br> Pro: $49.99/mo | **400 credits / month** | Learns brand voice and lead qualification via user feedback. |
 | **[Skyvern](https://skyvern.com/)** | Hobby: $29/mo <br> Pro: $149/mo | **1,000 credits / month** | Self-optimizes browser workflows to handle UI changes. |
@@ -40,74 +44,78 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ***
 
-### Notable Mentions
+### ✨ Notable Mentions
 
-- **[Hermes Agent](https://hermes.ai/)**  
+- **[Hermes Agent](https://hermes.ai/)** 🕊️  
   Advanced autonomous agent with strong self-reflection and iterative improvement capabilities for complex tasks.
-- **[OpenClaw](https://openclaw.ai/)**  
+- **[OpenClaw](https://openclaw.ai/)** 🦞  
   Self-evolving AI agent platform focused on continuous learning and tool acquisition.
-- **[Claude Code / Anthropic Agents](https://claude.ai/)**  
+- **[Claude Code / Anthropic Agents](https://claude.ai/)** 🎭  
   Powerful agentic system with self-correction, long-term memory, and iterative task refinement.
-- **[Vellum](https://www.vellum.ai/)**  
+- **[Vellum](https://www.vellum.ai/)** 📜  
   Enterprise platform with self-improving agent workflows and performance optimization features.
 
-## Open-Source GitHub Projects
+---
 
-### Dedicated Self-Improving AI Agent Projects
+## 🛠️ Open-Source GitHub Projects
 
-- **[OpenDevin](https://github.com/OpenDevin/OpenDevin)**  
+### 🏗️ Dedicated Self-Improving AI Agent Projects
+
+- **[OpenDevin](https://github.com/OpenDevin/OpenDevin)** 💻  
   Community-driven open-source autonomous AI software engineer. Features self-improvement loops, code editing, debugging, and continuous learning from execution feedback.
 
-- **[Devon](https://github.com/entropy-research/Devon)**  
+- **[Devon](https://github.com/entropy-research/Devon)** 🛠️  
   Autonomous AI software engineer that can plan, execute, reflect, and iteratively improve its own performance on complex coding tasks.
 
-- **[Agent Zero](https://github.com/Fr0gm4n/Agent-Zero)** (and forks)  
+- **[Agent Zero](https://github.com/Fr0gm4n/Agent-Zero)** 🧩  
   Open-source implementation of fully autonomous, self-evolving agents with dynamic skill acquisition and reflection mechanisms.
 
-- **[MetaGPT](https://github.com/geekan/MetaGPT)**  
+- **[MetaGPT](https://github.com/geekan/MetaGPT)** 🏢  
   Multi-agent framework where agents self-improve through role-playing, feedback, and iterative refinement in software development workflows.
 
-- **[Reflexion](https://github.com/noahshinn/reflexion)**  
+- **[Reflexion](https://github.com/noahshinn/reflexion)** 🧠  
   Foundational framework for self-reflective agents that learn from past failures and improve decision-making over time.
 
-- **[LangGraph](https://github.com/langchain-ai/langgraph)**  
+- **[LangGraph](https://github.com/langchain-ai/langgraph)** 🕸️  
   Stateful multi-agent orchestration with built-in support for memory, reflection, and self-improving workflows.
 
-- **[CrewAI](https://github.com/crewAIInc/crewAI)**  
+- **[CrewAI](https://github.com/crewAIInc/crewAI)** 🚢  
   Role-based multi-agent framework with strong community support for self-evolving agent crews and iterative improvement.
 
-- **[Aider](https://github.com/paul-gauthier/aider)**  
+- **[Aider](https://github.com/paul-gauthier/aider)** ⌨️  
   Command-line AI coding agent that continuously improves through conversation and git-based feedback loops.
 
-- **[SWE-agent](https://github.com/princeton-nlp/SWE-agent)**  
+- **[SWE-agent](https://github.com/princeton-nlp/SWE-agent)** 🎓  
   Autonomous agent specifically designed to improve at software engineering tasks through self-reflection and tool use.
 
-### Additional Strong Open-Source Options
+### 📚 Additional Strong Open-Source Options
 
-- **[AutoGen](https://github.com/microsoft/autogen)** — Microsoft’s multi-agent framework with self-critique and improvement patterns.
-- **[Camel-AI](https://github.com/camel-ai/camel)** — Communicative agents with role-based self-evolution.
-- **[Voyager](https://github.com/MineDojo/Voyager)** — Influential lifelong learning agent (Minecraft) that continuously acquires and improves skills.
-- **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** — Open-source implementation of powerful software engineering agents with self-improvement.
-- **[Phidata / Agno](https://github.com/phidatahq/phidata)** — Framework for building agents with memory and continuous learning capabilities.
-- Many community forks and extensions focused on **self-reflection**, **critique loops**, and **evolutionary agent architectures**.
+- **[AutoGen](https://github.com/microsoft/autogen)** — Microsoft’s multi-agent framework with self-critique and improvement patterns. 🤖
+- **[Camel-AI](https://github.com/camel-ai/camel)** — Communicative agents with role-based self-evolution. 🐫
+- **[Voyager](https://github.com/MineDojo/Voyager)** — Influential lifelong learning agent (Minecraft) that continuously acquires and improves skills. 🧭
+- **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** — Open-source implementation of powerful software engineering agents with self-improvement. 👐
+- **[Phidata / Agno](https://github.com/phidatahq/phidata)** — Framework for building agents with memory and continuous learning capabilities. 📂
 
-**Frameworks for building custom agents**: Use **LangGraph** + **CrewAI** + **Reflexion** patterns with local LLMs (Ollama) to create fully self-improving, sovereign agent systems.
+---
 
-## How to Contribute
+## 🤝 How to Contribute
 
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
+1. **Fork the repo.** 🍴
+2. **Add/edit entries in `README.md`** (follow existing format).
+3. **Include:** name, link, 1–2 sentence description, and whether it's SaaS or open-source.
+4. **Submit PR** with a short explanation. 🚀
 
-Star the repo if you find it useful!
+**Star the repo if you find it useful!** ⭐
 
-## Disclaimer
+---
+
+## ⚠️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - Self-improving agents can exhibit unpredictable behavior. Thorough testing and safety guardrails are essential before deployment.
 - Always review agent actions carefully, especially in production or high-stakes environments.
 
+---
 
 ## 📈 Star History
 
@@ -121,8 +129,7 @@ Star the repo if you find it useful!
 	</a>
 </div>
 
-
 ---
 
 **Made for AI researchers, autonomous agent developers, and forward-thinking engineers.**  
-Let's build AI systems that continuously learn and improve themselves.
+Let's build AI systems that continuously learn and improve themselves. 🚀
