@@ -55,6 +55,9 @@ This repository is the definitive resource for **Autonomous AI Agents** capable 
 - **[Vellum](https://www.vellum.ai/)** 📜  
   Enterprise platform with self-improving agent workflows and performance optimization features.
 
+### 🔐 Agent Identity & Trust (Self-Improving Infrastructure)
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** — Trust scoring and wallet identity verification for autonomous AI agents. Self-improving agent systems can verify peer agent identities before delegating tasks or sharing context. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ---
 
 ## 🛠️ Open-Source GitHub Projects
