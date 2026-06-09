@@ -5,6 +5,7 @@
 ![Last Updated](https://img.shields.io/badge/last%20updated-June%202026-brightgreen)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)
 ![Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Self-Improving-AI-Agents?style=social)
+<br />
 <a href="https://github.com/ishandutta2007?tab=followers">
   <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/ishandutta2007?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
 </a>
