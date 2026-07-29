@@ -65,43 +65,43 @@ This repository is the definitive resource for **Autonomous AI Agents** capable 
 
 ### 🏗️ Dedicated Self-Improving AI Agent Projects
 
-- **[OpenDevin](https://github.com/OpenDevin/OpenDevin)** 💻  
+- **[OpenDevin](https://github.com/OpenDevin/OpenDevin)** [![Stars](https://img.shields.io/github/stars/OpenDevin/OpenDevin?style=social&color=white)](https://github.com/OpenDevin/OpenDevin/stargazers) 💻  
   Community-driven open-source autonomous AI software engineer. Features self-improvement loops, code editing, debugging, and continuous learning from execution feedback.
 
-- **[Devon](https://github.com/entropy-research/Devon)** 🛠️  
-  Autonomous AI software engineer that can plan, execute, reflect, and iteratively improve its own performance on complex coding tasks.
-
-- **[Agent Zero](https://github.com/Fr0gm4n/Agent-Zero)** 🧩  
-  Open-source implementation of fully autonomous, self-evolving agents with dynamic skill acquisition and reflection mechanisms.
-
-- **[MetaGPT](https://github.com/geekan/MetaGPT)** 🏢  
+- **[MetaGPT](https://github.com/geekan/MetaGPT)** [![Stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social&color=white)](https://github.com/geekan/MetaGPT/stargazers) 🏢  
   Multi-agent framework where agents self-improve through role-playing, feedback, and iterative refinement in software development workflows.
 
-- **[Reflexion](https://github.com/noahshinn/reflexion)** 🧠  
-  Foundational framework for self-reflective agents that learn from past failures and improve decision-making over time.
-
-- **[LangGraph](https://github.com/langchain-ai/langgraph)** 🕸️  
-  Stateful multi-agent orchestration with built-in support for memory, reflection, and self-improving workflows.
-
-- **[CrewAI](https://github.com/crewAIInc/crewAI)** 🚢  
+- **[CrewAI](https://github.com/crewAIInc/crewAI)** [![Stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white)](https://github.com/crewAIInc/crewAI/stargazers) 🚢  
   Role-based multi-agent framework with strong community support for self-evolving agent crews and iterative improvement.
 
-- **[Orkas](https://github.com/Orkas-AI/Orkas)** 🧭
-  Open-source, local-first desktop AI workforce where each specialist agent keeps private skills and memory and improves through reflection after tasks, coordinated by a Commander through one chat.
-
-- **[Aider](https://github.com/paul-gauthier/aider)** ⌨️  
+- **[Aider](https://github.com/paul-gauthier/aider)** [![Stars](https://img.shields.io/github/stars/paul-gauthier/aider?style=social&color=white)](https://github.com/paul-gauthier/aider/stargazers) ⌨️  
   Command-line AI coding agent that continuously improves through conversation and git-based feedback loops.
 
-- **[SWE-agent](https://github.com/princeton-nlp/SWE-agent)** 🎓  
+- **[LangGraph](https://github.com/langchain-ai/langgraph)** [![Stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social&color=white)](https://github.com/langchain-ai/langgraph/stargazers) 🕸️  
+  Stateful multi-agent orchestration with built-in support for memory, reflection, and self-improving workflows.
+
+- **[SWE-agent](https://github.com/princeton-nlp/SWE-agent)** [![Stars](https://img.shields.io/github/stars/princeton-nlp/SWE-agent?style=social&color=white)](https://github.com/princeton-nlp/SWE-agent/stargazers) 🎓  
   Autonomous agent specifically designed to improve at software engineering tasks through self-reflection and tool use.
+
+- **[Agent Zero](https://github.com/Fr0gm4n/Agent-Zero)** [![Stars](https://img.shields.io/github/stars/Fr0gm4n/Agent-Zero?style=social&color=white)](https://github.com/Fr0gm4n/Agent-Zero/stargazers) 🧩  
+  Open-source implementation of fully autonomous, self-evolving agents with dynamic skill acquisition and reflection mechanisms.
+
+- **[Devon](https://github.com/entropy-research/Devon)** [![Stars](https://img.shields.io/github/stars/entropy-research/Devon?style=social&color=white)](https://github.com/entropy-research/Devon/stargazers) 🛠️  
+  Autonomous AI software engineer that can plan, execute, reflect, and iteratively improve its own performance on complex coding tasks.
+
+- **[Reflexion](https://github.com/noahshinn/reflexion)** [![Stars](https://img.shields.io/github/stars/noahshinn/reflexion?style=social&color=white)](https://github.com/noahshinn/reflexion/stargazers) 🧠  
+  Foundational framework for self-reflective agents that learn from past failures and improve decision-making over time.
+
+- **[Orkas](https://github.com/Orkas-AI/Orkas)** [![Stars](https://img.shields.io/github/stars/Orkas-AI/Orkas?style=social&color=white)](https://github.com/Orkas-AI/Orkas/stargazers) 🧭
+  Open-source, local-first desktop AI workforce where each specialist agent keeps private skills and memory and improves through reflection after tasks, coordinated by a Commander through one chat.
 
 ### 📚 Additional Strong Open-Source Options
 
-- **[AutoGen](https://github.com/microsoft/autogen)** — Microsoft’s multi-agent framework with self-critique and improvement patterns. 🤖
-- **[Camel-AI](https://github.com/camel-ai/camel)** — Communicative agents with role-based self-evolution. 🐫
-- **[Voyager](https://github.com/MineDojo/Voyager)** — Influential lifelong learning agent (Minecraft) that continuously acquires and improves skills. 🧭
-- **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** — Open-source implementation of powerful software engineering agents with self-improvement. 👐
-- **[Phidata / Agno](https://github.com/phidatahq/phidata)** — Framework for building agents with memory and continuous learning capabilities. 📂
+- **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** [![Stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social&color=white)](https://github.com/All-Hands-AI/OpenHands/stargazers) — Open-source implementation of powerful software engineering agents with self-improvement. 👐
+- **[AutoGen](https://github.com/microsoft/autogen)** [![Stars](https://img.shields.io/github/stars/microsoft/autogen?style=social&color=white)](https://github.com/microsoft/autogen/stargazers) — Microsoft’s multi-agent framework with self-critique and improvement patterns. 🤖
+- **[Phidata / Agno](https://github.com/phidatahq/phidata)** [![Stars](https://img.shields.io/github/stars/phidatahq/phidata?style=social&color=white)](https://github.com/phidatahq/phidata/stargazers) — Framework for building agents with memory and continuous learning capabilities. 📂
+- **[Camel-AI](https://github.com/camel-ai/camel)** [![Stars](https://img.shields.io/github/stars/camel-ai/camel?style=social&color=white)](https://github.com/camel-ai/camel/stargazers) — Communicative agents with role-based self-evolution. 🐫
+- **[Voyager](https://github.com/MineDojo/Voyager)** [![Stars](https://img.shields.io/github/stars/MineDojo/Voyager?style=social&color=white)](https://github.com/MineDojo/Voyager/stargazers) — Influential lifelong learning agent (Minecraft) that continuously acquires and improves skills. 🧭
 
 ---
 
