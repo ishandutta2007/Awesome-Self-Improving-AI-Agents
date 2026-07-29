@@ -31,20 +31,20 @@ This repository is the definitive resource for **Autonomous AI Agents** capable 
 
 ### 📊 Comparison Table (Self-Improving AI Agent Platforms)
 
-| Product Name | 💳 Pricing (Paid Plans) | 🎁 Free Tier Limit | 🧠 Primary "Self-Improving" Feature |
-| :--- | :--- | :--- | :--- |
-| **[Lindy.ai](https://hermes.ai/)** | Starter: $19.99/mo <br> Pro: $49.99/mo | **400 credits / month** | Learns brand voice and lead qualification via user feedback. |
-| **[Skyvern](https://skyvern.com/)** | Hobby: $29/mo <br> Pro: $149/mo | **1,000 credits / month** | Self-optimizes browser workflows to handle UI changes. |
-| **[Manus](https://manus.ai/)** | Pro: $19 - $199/mo | **5 runs / day** | Goal-driven reasoning that adapts based on live web feedback. |
-| **[Gumloop](https://www.gumloop.com/)** | Pro: $37/mo <br> Business: $199/mo | **1,000 credits / month** | AI-powered troubleshooting that suggests workflow repairs. |
-| **[AgentGPT](https://agentgpt.reworkd.ai/)** | Pro: $40/mo | **5 agents / day** | Recursive task spawning and iterative sub-goal refinement. |
-| **[Relevance AI](https://relevance.ai/)** | Pro: $29/mo <br> Team: $199/mo | **100 tokens / month** | Integrates long-term memory to optimize tool-use over time. |
-| **[HyperWrite](https://www.hyperwriteai.com/)** | Premium: $19.99/mo <br> Ultra: $44.99/mo | **250 AI messages / month** | Learns writing style and adapts via custom "Personas." |
-| **[MultiOn](https://www.multion.ai/)** | Pro: $20/mo <br> Enterprise: Custom | **Limited Trial / Beta** | Autonomous web navigation with cross-session learning. |
-| **[Zapier Central](https://zapier.com/central)** | Included in Pro ($20+) | **100 tasks / month** | Learns from interaction history across 6,000+ app integrations. |
-| **[n8n Cloud](https://n8n.io/)** | Starter: $20/mo <br> Pro: $60/mo | **Free (Self-hosted)** | Self-healing nodes that automatically fix common errors. |
-| **[CrewAI Cloud](https://www.crewai.com/)** | Pro: $99/mo <br> Enterprise: Custom | **Free (Self-hosted)** | Hierarchical memory and peer-to-peer agent feedback loops. |
-| **[Devin](https://www.cognition-labs.com/)** | Core: $20/mo <br> Enterprise: $500+/mo | **Paid Only / Waitlist** | Autonomous debugging and self-correcting code execution. |
+| Product Name | 💰 Size (Est. Valuation/Funding) | 💳 Pricing (Paid Plans) | 🎁 Free Tier Limit | 🧠 Primary "Self-Improving" Feature |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Devin](https://www.cognition-labs.com/)** | $26B | Core: $20/mo <br> Enterprise: $500+/mo | **Paid Only / Waitlist** | Autonomous debugging and self-correcting code execution. |
+| **[n8n Cloud](https://n8n.io/)** | $5.2B | Starter: $20/mo <br> Pro: $60/mo | **Free (Self-hosted)** | Self-healing nodes that automatically fix common errors. |
+| **[Zapier Central](https://zapier.com/central)** | $5B | Included in Pro ($20+) | **100 tasks / month** | Learns from interaction history across 6,000+ app integrations. |
+| **[Manus](https://manus.ai/)** | $2B | Pro: $19 - $199/mo | **5 runs / day** | Goal-driven reasoning that adapts based on live web feedback. |
+| **[Lindy.ai](https://hermes.ai/)** | ~$500M | Starter: $19.99/mo <br> Pro: $49.99/mo | **400 credits / month** | Learns brand voice and lead qualification via user feedback. |
+| **[Gumloop](https://www.gumloop.com/)** | ~$276M | Pro: $37/mo <br> Business: $199/mo | **1,000 credits / month** | AI-powered troubleshooting that suggests workflow repairs. |
+| **[MultiOn](https://www.multion.ai/)** | $100M | Pro: $20/mo <br> Enterprise: Custom | **Limited Trial / Beta** | Autonomous web navigation with cross-session learning. |
+| **[Relevance AI](https://relevance.ai/)** | Raised $37M | Pro: $29/mo <br> Team: $199/mo | **100 tokens / month** | Integrates long-term memory to optimize tool-use over time. |
+| **[CrewAI Cloud](https://www.crewai.com/)** | Raised $18M | Pro: $99/mo <br> Enterprise: Custom | **Free (Self-hosted)** | Hierarchical memory and peer-to-peer agent feedback loops. |
+| **[HyperWrite](https://www.hyperwriteai.com/)** | ~$12.5M | Premium: $19.99/mo <br> Ultra: $44.99/mo | **250 AI messages / month** | Learns writing style and adapts via custom "Personas." |
+| **[AgentGPT](https://agentgpt.reworkd.ai/)** | ~$9M | Pro: $40/mo | **5 agents / day** | Recursive task spawning and iterative sub-goal refinement. |
+| **[Skyvern](https://skyvern.com/)** | ~$2.7M | Hobby: $29/mo <br> Pro: $149/mo | **1,000 credits / month** | Self-optimizes browser workflows to handle UI changes. |
 
 ***
 
