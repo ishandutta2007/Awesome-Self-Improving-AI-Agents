@@ -86,6 +86,9 @@ This repository is the definitive resource for **Autonomous AI Agents** capable 
 - **[CrewAI](https://github.com/crewAIInc/crewAI)** 🚢  
   Role-based multi-agent framework with strong community support for self-evolving agent crews and iterative improvement.
 
+- **[Orkas](https://github.com/Orkas-AI/Orkas)** 🧭
+  Open-source, local-first desktop AI workforce where each specialist agent keeps private skills and memory and improves through reflection after tasks, coordinated by a Commander through one chat.
+
 - **[Aider](https://github.com/paul-gauthier/aider)** ⌨️  
   Command-line AI coding agent that continuously improves through conversation and git-based feedback loops.
 
