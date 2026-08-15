@@ -95,6 +95,9 @@ This repository is the definitive resource for **Autonomous AI Agents** capable 
 - **[Orkas](https://github.com/Orkas-AI/Orkas)** [![Stars](https://img.shields.io/github/stars/Orkas-AI/Orkas?style=social&color=white)](https://github.com/Orkas-AI/Orkas/stargazers) 🧭
   Open-source, local-first desktop AI workforce where each specialist agent keeps private skills and memory and improves through reflection after tasks, coordinated by a Commander through one chat.
 
+- **[RewardHarness](https://github.com/TIGER-AI-Lab/RewardHarness)** [![Stars](https://img.shields.io/github/stars/TIGER-AI-Lab/RewardHarness?style=social&color=white)](https://github.com/TIGER-AI-Lab/RewardHarness/stargazers) 🧪
+  Open-source agentic reward framework that evolves reusable scoring skills and tools from preference feedback, with held-out validation and rollback.
+
 ### 📚 Additional Strong Open-Source Options
 
 - **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** [![Stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social&color=white)](https://github.com/All-Hands-AI/OpenHands/stargazers) — Open-source implementation of powerful software engineering agents with self-improvement. 👐
