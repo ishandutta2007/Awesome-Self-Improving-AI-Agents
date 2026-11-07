@@ -99,7 +99,7 @@ This repository is the definitive resource for **Autonomous AI Agents** capable 
   Open-source agentic reward framework that evolves reusable scoring skills and tools from preference feedback, with held-out validation and rollback.
 
 - **[agent-qa](https://github.com/vostride/agent-qa)** [![Stars](https://img.shields.io/github/stars/vostride/agent-qa?style=social&color=white)](https://github.com/vostride/agent-qa/stargazers) 🧪<br>
-  QA agent for web, Android and iOS with persistent memidex memory that turns verified test evidence into reusable app facts, cautions and procedures. Evidence-gated self-improvement updates this app knowledge across runs; [FSL-1.1-ALv2](https://github.com/vostride/agent-qa/blob/main/LICENSE.md). [Website](https://vostride.com).
+  QA agent for web, Android and iOS with persistent memidex memory that turns verified test evidence into reusable app facts, cautions and procedures. Evidence-gated self-improvement updates this app knowledge across runs; [FSL-1.1-ALv2](https://github.com/vostride/agent-qa/blob/main/LICENSE.md).
 
 ### 📚 Additional Strong Open-Source Options
 
