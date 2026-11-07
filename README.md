@@ -98,6 +98,9 @@ This repository is the definitive resource for **Autonomous AI Agents** capable 
 - **[RewardHarness](https://github.com/TIGER-AI-Lab/RewardHarness)** [![Stars](https://img.shields.io/github/stars/TIGER-AI-Lab/RewardHarness?style=social&color=white)](https://github.com/TIGER-AI-Lab/RewardHarness/stargazers) 🧪
   Open-source agentic reward framework that evolves reusable scoring skills and tools from preference feedback, with held-out validation and rollback.
 
+- **[agent-qa](https://github.com/vostride/agent-qa)** [![Stars](https://img.shields.io/github/stars/vostride/agent-qa?style=social&color=white)](https://github.com/vostride/agent-qa/stargazers) 🧪<br>
+  QA agent for web, Android and iOS with persistent memidex memory that turns verified test evidence into reusable app facts, cautions and procedures. Evidence-gated self-improvement updates this app knowledge across runs; [FSL-1.1-ALv2](https://github.com/vostride/agent-qa/blob/main/LICENSE.md).
+
 ### 📚 Additional Strong Open-Source Options
 
 - **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** [![Stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social&color=white)](https://github.com/All-Hands-AI/OpenHands/stargazers) — Open-source implementation of powerful software engineering agents with self-improvement. 👐
